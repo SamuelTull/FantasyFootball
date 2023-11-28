@@ -1,0 +1,15 @@
+Ramsdale ARS GKP 51 45 
+DDG MUN GKP 52 51 
+James CHE DEF 62 57 
+Rudiger CHE DEF 62 61 
+Alonso CHE DEF 57 56 
+Cancelo MCI DEF 71 61 
+Trent LIV DEF 85 77 
+Salah LIV MID 127 125
+Jota LIV MID 84 80 
+Foden MCI MID 80 80 
+Bowen WHU MID 68 67 
+Brownhill BUR MID 43 44 
+Antonio WHU FWD 79 75 
+Dennis WAT FWD 62 54 
+King WAT FWD 59 58 
